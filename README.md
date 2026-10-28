@@ -15,4 +15,3 @@
 
 I used Claude to draft the first version of the workflow, scoring rules, and prompts. I reviewed the proposed decisions and kept mandatory eligibility checks separate from weighted scoring.
 
-[REPLACE THIS LINE: write 2-3 sentences about one real place where you disagreed with or corrected Claude, and why.]
