@@ -2,7 +2,7 @@
 
 * **Name:** Muhammad Adnan
 * **Reference:** MATACS-TH-2026-02
-* **Time actually spent:** Time actually spent: about 2 hours
+* **Time actually spent:**  about 2 hours
 
 ## Files
 
